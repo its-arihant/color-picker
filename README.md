@@ -1,2 +1,2 @@
-# Color_Picker_MERN_ETHNUS
+# Color_Picker
 https://colorpicker-mern-ethnus.vercel.app/
